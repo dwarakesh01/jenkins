@@ -61,7 +61,7 @@ THE SOFTWARE.
   </modules>
 
   <scm> child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
-    <connection>scm:git:https://github.com/jenkinsci/jenkins.git</connection>
+    <connection>scm:git:https://github.com/dwarakesh01/jenkins.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/jenkins.git</developerConnection>
     <tag>${scmTag}</tag>
     <url>https://github.com/jenkinsci/jenkins</url>
